@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-bandstand-website",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1"
+  },
+  "main": "connection.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/nodejs-bandstand-website.git"
+  },
+  "author": "nodejs-bandstand",
+  "license": "ISC",
+  "description": ""
+}
